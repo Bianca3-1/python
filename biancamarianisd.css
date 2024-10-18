@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;700&family=Sedan+SC&display=swap');
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #dfd8d5;
+}
+header {
+    background:#d4b9a7;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+main {
+    margin-top: 20px;
+}
+img {
+    width: 300px;
+}
+
+h1{
+    font-size: 34px;
+    color: rgb(0, 0, 0);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+p{
+    font-size: 20px;
+
+}
+.va{
+    font-size: 15px;
+    color: rgb(3, 0, 0);
+}
+.sisoy{
+    font-size: 15px;
+    color: rgb(3, 0, 0)
+  
+}
+header ul{
+    list-style: none;
+    display: flex;
+    flex-direction: row;  
+
+}
+
+.nova{
+    display: flex;
+    gap: 40px;
+}
